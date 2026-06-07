@@ -1,11 +1,5 @@
 ### AI Document Generator
 
-## Please email any of our teammates if any help is required in execution of the project.
-### 1. Chandra Reddy Machavaram (chandrareddy.machavaram@ucdenver.edu)
-### 2. Havinash Reddy Arumalla - (nagavenkatasivahavinashred.arumalla@ucdenver.edu)
-### 3. Samia Sharmin Diba - (samiasharmin.diba@ucdenver.edu)
-### 4. Nafees Chand - (nafees.chand@ucdenver.edu)
-
 #### How to run this project?
 
 #### Please follow the following steps.
